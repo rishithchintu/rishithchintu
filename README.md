@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @rishithchintu
 - 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
 - 💞️ I’m looking to collaborate on Machine Learning projects
 - 📫 How to reach me E-mail: rishith.chintu@gmail.com
 
