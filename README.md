@@ -1,14 +1,17 @@
 Hi there, I'm Rishith R! 👋
 🚀 Passionate Data Science Enthusiast | 💡 AI Research Intern at ProDiscover Forensics | 📊 Machine Learning & Python Developer
 
+
 <!---
 rishithchintu/rishithchintu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
 👨‍💻 About Me
+
 I am a data science enthusiast with a passion for turning data into actionable insights. With strong skills in Python, Java, and machine learning, I have a proven track record of cleaning, analyzing, and deploying models to solve real-world problems. I thrive in dynamic environments and love tackling complex challenges with creative solutions. Currently, I am focused on expanding my expertise in AI and applying it to security applications.
 
 🔍 Current Role
+
 AI Research Intern at ProDiscover Forensics (Aug 2024 - Present)
 Hyderabad, India
 
