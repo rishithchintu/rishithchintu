@@ -26,6 +26,7 @@ Refined YARA rules for effective malware detection, strengthening threat respons
 Created audio and video transcription plugins, improving accessibility and enabling richer content analysis.
 
 
+
 💡 Skills & Tools
 
 Programming Languages: Python, Java
