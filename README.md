@@ -32,5 +32,5 @@ Improving my understanding of cybersecurity practices to ensure data integrity a
 I'm always excited to work on data-driven projects that have a real-world impact! Whether it’s a machine learning model, a data visualization dashboard, or a tool for digital forensics, I'm open to contributing and learning together.
 
 📫 Get in Touch
-💼 LinkedIn
-✉️ Email
+💼 linkedin.com/in/rishith-r/
+✉️ rishith.chintu@gmail.com
