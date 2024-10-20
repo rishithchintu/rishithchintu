@@ -16,9 +16,13 @@ AI Research Intern at ProDiscover Forensics (Aug 2024 - Present)
 Hyderabad, India
 
 Engineered and integrated detection plugins for identifying cars, narcotics, weapons, and faces, enhancing software capabilities.
+
 Developed a sentiment analysis plugin that classifies documents into positive, negative, and neutral categories for better decision-making.
+
 Improved entity extraction using spaCy and regular expressions, boosting accuracy and efficiency.
+
 Refined YARA rules for effective malware detection, strengthening threat response mechanisms.
+
 Created audio and video transcription plugins, improving accessibility and enabling richer content analysis.
 
 
