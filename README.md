@@ -51,4 +51,5 @@ I'm always excited to work on data-driven projects that have a real-world impact
 📫 Get in Touch
 
 💼 linkedin.com/in/rishith-r/
+
 ✉️ rishith.chintu@gmail.com
