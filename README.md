@@ -20,6 +20,7 @@ Created audio and video transcription plugins, improving accessibility and enabl
 
 
 💡 Skills & Tools
+
 Programming Languages: Python, Java
 Data Analysis & Visualization: Pandas, Matplotlib, Seaborn
 Machine Learning: Scikit-Learn, TensorFlow, Keras
@@ -29,12 +30,14 @@ Security & Forensics: YARA Rules, ProDiscover Forensics, Digital Forensics
 
 
 🧠 What I'm Learning
+
 Advanced deep learning techniques for image and video analysis.
 Generative AI models for more intuitive and interactive user experiences.
 Improving my understanding of cybersecurity practices to ensure data integrity and privacy.
 
 
 🌱 Open to Collaborations
+
 I'm always excited to work on data-driven projects that have a real-world impact! Whether it’s a machine learning model, a data visualization dashboard, or a tool for digital forensics, I'm open to contributing and learning together.
 
 📫 Get in Touch
